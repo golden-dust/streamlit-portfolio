@@ -1,2 +1,2 @@
 # streamlit-portfolio
-data analysis and machine learning prediction using python3
+data analysis and machine learning prediction using python3 and streamlit
